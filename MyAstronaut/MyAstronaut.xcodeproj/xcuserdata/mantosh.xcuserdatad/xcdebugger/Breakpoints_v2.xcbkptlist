@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FAE7088D-00B7-4CF7-B84A-8F13C54AABF4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4DCCE0B7-93A7-41FC-8104-342B43502509"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyAstronaut/Bundel-Decodable.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "Bundle"
+            landmarkType = "21">
+            <Locations>
+               <Location
+                  uuid = "4DCCE0B7-93A7-41FC-8104-342B43502509 - 191c9830decc4c08"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__C.NSBundle.decode(Swift.String) -&gt; Swift.Dictionary&lt;Swift.String, MyAstronaut.Astronaut&gt;"
+                  moduleName = "MyAstronaut"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mantosh/Desktop/SwiftUI-2/MyAstronaut/MyAstronaut/Bundel-Decodable.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "1840">
+               </Location>
+               <Location
+                  uuid = "4DCCE0B7-93A7-41FC-8104-342B43502509 - 191c9830decc4c08"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__C.NSBundle.decode(Swift.String) -&gt; Swift.Dictionary&lt;Swift.String, MyAstronaut.Astronaut&gt;"
+                  moduleName = "MyAstronaut"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mantosh/Desktop/SwiftUI-2/MyAstronaut/MyAstronaut/Bundel-Decodable.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "1644">
+               </Location>
+               <Location
+                  uuid = "4DCCE0B7-93A7-41FC-8104-342B43502509 - 191c9830decc4c08"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__C.NSBundle.decode(Swift.String) -&gt; Swift.Dictionary&lt;Swift.String, MyAstronaut.Astronaut&gt;"
+                  moduleName = "MyAstronaut"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mantosh/Desktop/SwiftUI-2/MyAstronaut/MyAstronaut/Bundel-Decodable.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "1588">
+               </Location>
+               <Location
+                  uuid = "4DCCE0B7-93A7-41FC-8104-342B43502509 - 191c9830decc4c08"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__C.NSBundle.decode(Swift.String) -&gt; Swift.Dictionary&lt;Swift.String, MyAstronaut.Astronaut&gt;"
+                  moduleName = "MyAstronaut"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mantosh/Desktop/SwiftUI-2/MyAstronaut/MyAstronaut/Bundel-Decodable.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "1940">
+               </Location>
+               <Location
+                  uuid = "4DCCE0B7-93A7-41FC-8104-342B43502509 - 191c9830decc4c08"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__C.NSBundle.decode(Swift.String) -&gt; Swift.Dictionary&lt;Swift.String, MyAstronaut.Astronaut&gt;"
+                  moduleName = "MyAstronaut"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mantosh/Desktop/SwiftUI-2/MyAstronaut/MyAstronaut/Bundel-Decodable.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "1900">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BDC81727-1CAD-425B-967B-321CD4B3DC13"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyAstronaut/Bundel-Decodable.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "decode(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BDC81727-1CAD-425B-967B-321CD4B3DC13 - b062ca9821ba8936"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__C.NSBundle.decode&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(Swift.String) -&gt; &#x3c4;_0_0"
+                  moduleName = "MyAstronaut"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mantosh/Desktop/SwiftUI-2/MyAstronaut/MyAstronaut/Bundel-Decodable.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "3500">
+               </Location>
+               <Location
+                  uuid = "BDC81727-1CAD-425B-967B-321CD4B3DC13 - b062ca9821ba8955"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__C.NSBundle.decode&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(Swift.String) -&gt; &#x3c4;_0_0"
+                  moduleName = "MyAstronaut"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mantosh/Desktop/SwiftUI-2/MyAstronaut/MyAstronaut/Bundel-Decodable.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "1420">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
