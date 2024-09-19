@@ -26,7 +26,7 @@ struct ContentView: View {
                             Text("Details view")
                         } label: {
                             VStack {
-                                Image(mission.imageName)
+                                Image(mission.image)
                                     .resizable()
                                     .scaledToFit()
                                     .frame(width: 150, height: 150)
@@ -42,16 +42,15 @@ struct ContentView: View {
                                 }
                                     .padding(.vertical)
                                     .frame(maxWidth: .infinity)
-                                    .background(.systemBlue)
+                                    .background(.blue)
                                 
                             }.clipShape(.rect(cornerRadius: 10))
                                 .overlay(RoundedRectangle(cornerRadius: 10).stroke(.blue))
-                            
-                            
                         }
                     }
                 }.padding()
             }.navigationTitle("Apollo Astronauts")
+                .background(.darkBackground)
         }
     }
 }
