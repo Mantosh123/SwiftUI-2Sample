@@ -39,13 +39,20 @@ struct MissionDetailsView: View {
                             .padding(.bottom)
                         
                         Text(mission.description)
+                        
+                        Rectangle().frame(height: 2)
+                            .background(.gray)
+                        
+                        Text("Crew")
+                            .font(.title)
+                            .bold()
                     }.padding(.horizontal)
                     
                     ScrollView(.horizontal) {
                         HStack {
                             ForEach(crew, id: \.role)  { crewMember in
                                 NavigationLink {
-                                    Text("Austronut Details")
+                                    AstronautView(astronaut: crewMember.astronaut)
                                 } label: {
                                     HStack {
                                         Image(crewMember.astronaut.id)
@@ -53,8 +60,8 @@ struct MissionDetailsView: View {
                                             .frame(width: 100, height: 70)
                                             .clipShape(.capsule)
                                             .overlay(
-                                            Capsule()
-                                                .strokeBorder(.white, lineWidth: 2)
+                                                Capsule()
+                                                    .strokeBorder(.white, lineWidth: 2)
                                             )
                                         
                                         VStack(alignment: .leading) {
@@ -67,15 +74,12 @@ struct MissionDetailsView: View {
                                     }
                                 }
                             }
-                            
-                            
                         }.padding()
                     }
                     
                 }.padding(.bottom)
             }.navigationTitle(mission.displayName)
                 .navigationBarTitleDisplayMode(.inline)
-//                .background(.darkBackground)
         }
     }
     

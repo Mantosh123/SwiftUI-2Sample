@@ -21,6 +21,7 @@
 		B4787A822C9B44B70066B2FA /* Missions.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4787A812C9B44B70066B2FA /* Missions.swift */; };
 		B4787A842C9C95DD0066B2FA /* Color-theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4787A832C9C95DD0066B2FA /* Color-theme.swift */; };
 		B4787A862C9C96E40066B2FA /* MissionDetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4787A852C9C96E40066B2FA /* MissionDetailsView.swift */; };
+		B4787A882C9DF06E0066B2FA /* AstronautView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4787A872C9DF06E0066B2FA /* AstronautView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,6 +59,7 @@
 		B4787A812C9B44B70066B2FA /* Missions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Missions.swift; sourceTree = "<group>"; };
 		B4787A832C9C95DD0066B2FA /* Color-theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color-theme.swift"; sourceTree = "<group>"; };
 		B4787A852C9C96E40066B2FA /* MissionDetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MissionDetailsView.swift; sourceTree = "<group>"; };
+		B4787A872C9DF06E0066B2FA /* AstronautView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AstronautView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +115,7 @@
 				B4787A4F2C9B23560066B2FA /* MyAstronautApp.swift */,
 				B4787A512C9B23560066B2FA /* ContentView.swift */,
 				B4787A852C9C96E40066B2FA /* MissionDetailsView.swift */,
+				B4787A872C9DF06E0066B2FA /* AstronautView.swift */,
 				B4787A832C9C95DD0066B2FA /* Color-theme.swift */,
 				B4787A7D2C9B38360066B2FA /* Astronaut.swift */,
 				B4787A812C9B44B70066B2FA /* Missions.swift */,
@@ -282,6 +285,7 @@
 			files = (
 				B4787A7E2C9B38360066B2FA /* Astronaut.swift in Sources */,
 				B4787A842C9C95DD0066B2FA /* Color-theme.swift in Sources */,
+				B4787A882C9DF06E0066B2FA /* AstronautView.swift in Sources */,
 				B4787A522C9B23560066B2FA /* ContentView.swift in Sources */,
 				B4787A822C9B44B70066B2FA /* Missions.swift in Sources */,
 				B4787A862C9C96E40066B2FA /* MissionDetailsView.swift in Sources */,
